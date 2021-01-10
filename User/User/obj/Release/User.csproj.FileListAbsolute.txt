@@ -1,0 +1,15 @@
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\bin\Release\User.exe.config
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\bin\Release\User.exe
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\bin\Release\User.pdb
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.csprojAssemblyReference.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\MainWindow.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\App.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User_MarkupCompile.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User_MarkupCompile.lref
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\MainWindow.baml
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.g.resources
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.Properties.Resources.resources
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.csproj.GenerateResource.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.csproj.CoreCompileInputs.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.exe
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\04 - Графический интерфейс пользователя\User\User\obj\Release\User.pdb
